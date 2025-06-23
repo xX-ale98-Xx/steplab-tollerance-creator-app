@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Env
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution
+build/
+dist/
+*.egg-info/
+oldVers/
+standAlone/
+
+#file excel non utili
+Crea_tolleranze.spec
+esempio_rafale_study_v1.csv
+RAFALE_front.xlsx
+template_tolleranze.xlsx
+prova_tabella.py
+
+
+# Test
+.pytest_cache/
+.tox/
+.coverage
+
+# Jupyter
+.ipynb_checkpoints
